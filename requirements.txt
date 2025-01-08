@@ -1,6 +1,5 @@
 deepl
 logzero
-PySide6
 xdg
 pyexcel
 pyexcel-odsr
